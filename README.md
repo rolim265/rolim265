@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?username=rolim265-ai&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=rolim265&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #contato
 <nr>
